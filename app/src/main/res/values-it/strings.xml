@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="question1">Quale mare è famoso per la sua elevata salinità?</string>
+    <string name="question2">Qual\'è la capitale della Turchia?</string>
+    <string name="question3">Quale fra queste è la bandiera messicana?</string>
+    <string name="question4">Dove si trova il Suriname?</string>
+    <string name="question5">Quali non sono dei tipici piatti italiani?</string>
+    <string name="question6">Quale fra queste è la capitale della Bolivia?</string>
+    <string name="question7">Di quale paese è questa bandiera?</string>
+    <string name="question8">Con quali paesi confina l\'Italia?</string>
+    <string name="question9">Qual\'è la capitale dell\'Argentina?</string>
+    <string name="question10">Quale mare bagna Venezia?</string>
+    <string name="question11">Chi sei tu? :)</string>
+    <string name="dead_sea">Morto</string>
+    <string name="tyrrhenian">Tirreno</string>
+    <string name="caspian">Caspio</string>
+    <string name="smirne">Smirne</string>
+    <string name="ankara">Ankara</string>
+    <string name="south_america">Sud America</string>
+    <string name="app_name">Geo Quiz</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="africa">Africa</string>
+    <string name="asia">Asia</string>
+    <string name="lasagna">Lasagna</string>
+    <string name="focaccia">Focaccia</string>
+    <string name="mussakà">Mussacà</string>
+    <string name="kofta">Kofta</string>
+    <string name="tortellini">Tortellini</string>
+    <string name="bogotà">Bogotà</string>
+    <string name="la_paz">La Paz</string>
+    <string name="assunciòn">Assunciòn</string>
+    <string name="country_name">Nome del Paese</string>
+    <string name="germany">Germania</string>
+    <string name="spain">Spagna</string>
+    <string name="san_marino">San Marino</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="switzerland">Svizzera</string>
+    <string name="luxembourg">Lussemburgo</string>
+    <string name="austria">Austria</string>
+    <string name="vatican">Città del Vaticano</string>
+    <string name="croatia">Croazia</string>
+    <string name="france">Francia</string>
+    <string name="capital_name">Nome della Capitale</string>
+    <string name="adriatic">Adriatico</string>
+    <string name="ionian">Ionio</string>
+    <string name="name">Nome</string>
+    <string name="good_job">Ottimo lavoro! Invia il tuo quiz per sapere il tuo punteggio..</string>
+    <string name="submit">Invia</string>
+    <string name="error_message">Rispondi a tutte le domande prima di inviarle</string>
+    <string name="zero_points">Sul serio <xliff:g example="Fabio" id="name">%s</xliff:g>?! Nessuna è corretta</string>
+    <string name="too_bad">Che peccato! <xliff:g example="Fabio" id="name">%s</xliff:g> il tuo punteggio è: <xliff:g example="3" id="score">%i</xliff:g>/10 Devi dare una rinfrescata alle conoscenze di geografia.</string>
+    <string name="good_job_toast">Ottimo lavoro <xliff:g example="Fabio" id="name">%s</xliff:g>! il tuo punteggio è: <xliff:g example="3" id="score">%i</xliff:g>/10\nSei un buon viaggiatore :)</string>
+    <string name="congrats">Congratulazioni <xliff:g example="Fabio" id="name">%s</xliff:g>! Il tuo punteggio è <xliff:g example="3" id="score">%i</xliff:g>/10\nSei un maestro delle mappe!</string>
+    <string name="awestanding">Eccezionale! <xliff:g example="Fabio" id="name">%s</xliff:g> il tuo punteggio è <xliff:g example="3" id="score">%i</xliff:g>/10\nI cartografi sono tuoi studenti!!! :)</string>
+    <string name="swz_flag">Svizzera</string>
+    <string name="share">Condividi</string>
+    <string name="email_subject">Dai un occhiata al mio punteggio su GeoQuiz</string>
+    <string name="email_main">Ciao!\nIl mio punteggio su GeoQuiz è <xliff:g example="3" id="score">%d</xliff:g>/10 Se credi di poter fare di meglio accetta la mia sfida!\nScarica GeoApp <a href="https://github.com/saylos/Google-Developer-Scholarship-Final-Project.git">qui</a>!</string>
+    <string name="error_share">Invia prima di condividere</string>
+</resources>

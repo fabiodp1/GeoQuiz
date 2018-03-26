@@ -1,0 +1,74 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Geo Quiz</string>
+    <string name="qOne" translatable="false">1 -</string>
+    <string name="qTwo" translatable="false">2 -</string>
+    <string name="qThree" translatable="false">3 -</string>
+    <string name="qFour" translatable="false">4 -</string>
+    <string name="qFive" translatable="false">5 -</string>
+    <string name="qSix" translatable="false">6 -</string>
+    <string name="qSeven" translatable="false">7 -</string>
+    <string name="qEight" translatable="false">8 -</string>
+    <string name="qNine" translatable="false">9 -</string>
+    <string name="qTen" translatable="false">10 -</string>
+    <string name="qEleven" translatable="false">11 -</string>
+    <string name="irFlag" translatable="false">Iran</string>
+    <string name="mexFlag" translatable="false">Mexico</string>
+    <string name="itFlag" translatable="false">Italy</string>
+    <string name="switzFlag" translatable="false">Switzerland</string>
+    <string name="question1">Which sea is famous for its high concentration of salt?</string>
+    <string name="question2">Which is the Capital of Turkey?</string>
+    <string name="question3">Which one is the mexican flag?</string>
+    <string name="question4">Where is Suriname?</string>
+    <string name="question5">Which are not typical italian foods?</string>
+    <string name="question6">Which one is the Capital of Bolivia?</string>
+    <string name="question7">Which country is this flag of?</string>
+    <string name="question8">Which countries does Italy shares the borders with?</string>
+    <string name="question9">Which is the Capital of Argentine?</string>
+    <string name="question10">Which sea bathes Venice?</string>
+    <string name="question11">Who are You? :)</string>
+    <string name="dead_sea">Dead</string>
+    <string name="tyrrhenian">Tyrrhenian</string>
+    <string name="caspian">Caspian</string>
+    <string name="smirne">Izmir</string>
+    <string name="ankara">Ankara</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="africa">Africa</string>
+    <string name="south_america">South America</string>
+    <string name="asia">Asia</string>
+    <string name="lasagna">Lasagna</string>
+    <string name="focaccia">Focaccia</string>
+    <string name="mussakà">Mussacà</string>
+    <string name="kofta">Kofta</string>
+    <string name="tortellini">Tortellini</string>
+    <string name="bogotà">Bogotà</string>
+    <string name="la_paz">La Paz</string>
+    <string name="assunciòn">Assunciòn</string>
+    <string name="country_name">Country Name</string>
+    <string name="germany">Germany</string>
+    <string name="spain">Spain</string>
+    <string name="san_marino">San Marino</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="luxembourg">Luxembourg</string>
+    <string name="austria">Austria</string>
+    <string name="vatican">Vatican City</string>
+    <string name="croatia">Croatia</string>
+    <string name="france">France</string>
+    <string name="capital_name">Capital Name</string>
+    <string name="adriatic">Adriatic</string>
+    <string name="ionian">Ionian</string>
+    <string name="name">Name</string>
+    <string name="good_job">Good Job! Submit your quiz to know your score..</string>
+    <string name="submit">Submit</string>
+    <string name="share">Share!</string>
+    <string name="error_message">Answer all the questions before submit</string>
+    <string name="error_share">Submit before sharing</string>
+    <string name="zero_points">Really <xliff:g example="Fabio" id="name">%s</xliff:g>?! No one is correct!</string>
+    <string name="too_bad">Too bad! <xliff:g example="Fabio" id="name">%s</xliff:g> your score is: <xliff:g example="3" id="score">%d</xliff:g>/10\nYou need to refresh your GeoKnowledge.</string>
+    <string name="good_job_toast">Good job <xliff:g example="Fabio" id="name">%s</xliff:g>! Your score is <xliff:g example="3" id="score">%d</xliff:g>/10\nYou\'re quite a traveller :)</string>
+    <string name="congrats">Congratulations <xliff:g example="Fabio" id="name">%s</xliff:g>! Your score is <xliff:g example="3" id="score">%d</xliff:g>/10\nYou\'re a map master!</string>
+    <string name="awestanding">Awestanding! <xliff:g example="Fabio" id="name">%s</xliff:g> your score is <xliff:g example="3" id="score">%d</xliff:g>/10\nCartographers are your students!!! :)</string>
+    <string name="swz_flag">Switzerland</string>
+    <string name="email_subject">Look at my GeoQuiz score!</string>
+    <string name="email_main">Hi!\nMy GeoQuiz score is <xliff:g example="3" id="score">%d</xliff:g>/10\nIf you think you can do better accept my challenge!\nDownload the GeoApp here: https://github.com/saylos/Google-Developer-Scholarship-Final-Project.git</string>
+</resources>
